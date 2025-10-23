@@ -1,0 +1,29 @@
+Copyright (c) 2025 Yinan Yang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, and modify the Software for **non-commercial research and educational
+purposes only**, subject to the following conditions:
+
+1. Proper attribution must be given to the original author. Any use of this
+   Software, in whole or in part, must include citation of the following
+   publication(s):
+   Li, Y. J. and J. P. Li, 2012: Propagation of planetary waves in the horizontal non-uniform basic flow. Chin. J. Geophys. (in Chinese), 55, 361–371. 
+   ——, ——, F.-F. Jin, and S. Zhao, 2015: Interhemispheric propagation of stationary Rossby waves in a horizontally nonuniform background flow. J. Atmospheric Sci., 72, 3233–3256, https://doi.org/10.1175/JAS-D-14-0239.1.
+   ——, J. Feng, J. P. Li, and A. Hu, 2019: Equatorial windows and barriers for stationary Rossby wave propagation. J. Clim., 32, 6117–6135, https://doi.org/10.1175/JCLI-D-18-0722.1.
+   Yang, Y. N. and J. P. Li, 2025: Novel monsoon indices based on vector projection and directed angle for measuring the East Asian summer monsoon. Clim. Dyn., 63, 210, https://doi.org/10.1007/s00382-025-07696-7
+   Zhao, S., J. P. Li, and Y. J. Li, 2015: Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter. J. Clim., 28, 7437–7456, https://doi.org/10.1175/JCLI-D-14-00425.1.
+   ——, ——, ——, F.-F. Jin, and J. Zheng, 2019: Interhemispheric influence of Indo-Pacific convection oscillation on douthern jemisphere rainfall through southward propagation of Rossby waves. Clim. Dyn., 52, 3203–3221, https://doi.org/10.1007/s00382-018-4324-y.
+
+2. Commercial use of this Software, in whole or in part, is strictly prohibited.
+
+3. Redistribution of the Software, with or without modification, must retain
+   this copyright notice, these conditions, and the following disclaimer.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
